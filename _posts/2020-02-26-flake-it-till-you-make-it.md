@@ -16,10 +16,10 @@ This is a collection of books that I will probably remember for a long time, eac
 
     <div class="carousel-item active">
       <div class="text-center p-4">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FSpacetime-Geometry-Introduction-General-Relativity%2Fdp%2F0805387323&psig=AOvVaw2ldVdEQtJWkvDMagyl1Ek9&ust=1752694057798000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNist6fMv44DFQAAAAAdAAAAABAE" class="d-block mx-auto" style="max-height: 300px;" alt="...">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0z6yhZK3atqIYjAiGQ-j8CRHMRkVA54FTQ&s" class="d-block mx-auto" style="max-height: 300px;" alt="...">
 
-        <h3><strong>The Little Prince</strong> by Antoine de Saint-Exupéry</h3>
-        <p>A simple story, but deeply philosophical. It reminded me of the value of childlike wonder and how adults often forget what really matters.</p>
+        <h3><strong>Spacetime and Geometry by Sean Carroll</h3>
+        <p>Ahem. Cannot afford to forget this book, but slightly unfair since I haven't exactly read it from start to finish. </p>
       </div>
     </div>
 
