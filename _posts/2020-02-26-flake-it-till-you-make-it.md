@@ -16,6 +16,8 @@ This is a collection of books that I will probably remember for a long time, eac
 
     <div class="carousel-item active">
       <div class="text-center p-4">
+      <img src="/assets/img/books/littleprince.jpg" class="d-block mx-auto" style="max-height: 300px;" alt="...">
+
         <h3><strong>The Little Prince</strong> by Antoine de Saint-Exupéry</h3>
         <p>A simple story, but deeply philosophical. It reminded me of the value of childlike wonder and how adults often forget what really matters.</p>
       </div>
