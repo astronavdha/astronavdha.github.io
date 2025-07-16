@@ -18,39 +18,45 @@ This is a collection of books and stories that I will probably remember for a lo
       <div class="text-center p-4">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Classical_Electrodynamics_%28book%29.png" class="d-block mx-auto" style="max-height: 300px;" alt="...">
 
-        <h3><strong>Classical Electrodynamics by J.D. Jackson</strong></h3>
-        <p>It'd be a shame if I forget this stuff.</p>
+        <h3><strong>Classical Electrodynamics</strong> by J.D. Jackson</h3>
+        <p>It'd be a shame if I forget this.</p>
       </div>
     </div>
 
     <div class="carousel-item">
       <div class="text-center p-4">
-        <h3><strong>Siddhartha</strong> by Hermann Hesse</h3>
+        <h3><strong>To Kill a Mockingbird</strong> by Harper Lee</h3>
         <p>A spiritual journey of self-discovery. I loved how it portrays the search for enlightenment as deeply personal.</p>
       </div>
     </div>
 
     <div class="carousel-item">
       <div class="text-center p-4">
-        <h3><strong>The Bell Jar</strong> by Sylvia Plath</h3>
+        <h3><strong>The History Boys</strong> by Alan Bennett</h3>
         <p>A raw and honest portrayal of mental health. It made me feel seen during a difficult time.</p>
       </div>
     </div>
 
     <div class="carousel-item">
       <div class="text-center p-4">
-        <h3><strong>1984</strong> by George Orwell</h3>
+        <h3><strong>Dear Fatty</strong> by Dawn French</h3>
         <p>Not just dystopia, but a deep commentary on control and truth. I think about "doublethink" way too often.</p>
       </div>
     </div>
 
     <div class="carousel-item">
       <div class="text-center p-4">
-        <h3><strong>Norwegian Wood</strong> by Haruki Murakami</h3>
-        <p>It's melancholic and beautiful. Murakami’s writing has a way of sitting with you quietly, like grief.</p>
+        <h3><strong>The Monk Who Sold His Ferrari</strong> by Robin Sharma</h3>
+        <p>... as a reminder to never pick a self-help book ever again. The first and the last book of its kind that I read.</p>
       </div>
     </div>
 
+    <div class="carousel-item">
+      <div class="text-center p-4">
+        <h3><strong>Satyadas</strong> by Bimal Kar</h3>
+        <p>... as a reminder to never pick a self-help book ever again. The first and the last book of its kind that I read.</p>
+      </div>
+    </div>
   </div>
 
   <!-- Controls -->
