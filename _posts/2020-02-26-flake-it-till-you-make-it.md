@@ -18,7 +18,7 @@ This is a collection of books and stories that I will probably remember for a lo
       <div class="text-center p-4">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Classical_Electrodynamics_%28book%29.png" class="d-block mx-auto" style="max-height: 300px;" alt="...">
 
-        <h3><strong>Classical Electrodynamics by J.D. Jackson</h3>
+        <h3><strong>Classical Electrodynamics by J.D. Jackson</strong></h3>
         <p>It'd be a shame if I forget this stuff.</p>
       </div>
     </div>
