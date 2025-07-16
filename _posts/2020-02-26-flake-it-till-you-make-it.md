@@ -25,6 +25,8 @@ This is a collection of books and stories that I will probably remember for a lo
 
     <div class="carousel-item">
       <div class="text-center p-4">
+      <img src="https://m.media-amazon.com/images/I/81gepf1eMqL._UF1000,1000_QL80_.jpg" alt="...">
+
         <h3><strong>To Kill a Mockingbird</strong> by Harper Lee</h3>
         <p>I'm guilty of having imagined that the book was about a bird for the longest time. It is a classic for a reason. A light-hearted, somewhat funny narration to a dark sequence of events. I didn't realize until much later when I read online somewhere that the entire story from the beginning to the end is Scout (the protagonist, six yr. old) telling the reader about a time when she got a fracture. “When they finally saw him, why he hadn’t done any of those things . . . Atticus, he was real nice. . . .” His hands were under my chin, pulling up the cover, tucking it around me. “Most people are, Scout, when you finally see them.” I do not care however much Atticus is criticized for being an outirght racist in the sequel, I hope to carry at least this philosophy of his with me to my grave. </p>
       </div>
