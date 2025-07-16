@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books]
 author: Navdha
 ---
-This is a collection of books that I will probably remember for a long time, each with a short description on what stood out to me in particular. Some of these are truly dear to me, and have changed how I view the world and who I am as a person. 
+This is a collection of books and stories that I will probably remember for a long time, each with a short description on what stood out to me in particular. Some of these are truly dear to me, and have changed how I view the world and who I am as a person. 
 
 
 <div id="bookCarousel" class="carousel slide" data-ride="carousel">
@@ -16,10 +16,10 @@ This is a collection of books that I will probably remember for a long time, eac
 
     <div class="carousel-item active">
       <div class="text-center p-4">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0z6yhZK3atqIYjAiGQ-j8CRHMRkVA54FTQ&s" class="d-block mx-auto" style="max-height: 300px;" alt="...">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Classical_Electrodynamics_%28book%29.png" class="d-block mx-auto" style="max-height: 300px;" alt="...">
 
-        <h3><strong>Spacetime and Geometry by Sean Carroll</h3>
-        <p>Ahem. Cannot afford to forget this book, but slightly unfair since I haven't exactly read it from start to finish. </p>
+        <h3><strong>Classical Electrodynamics by J.D. Jackson</h3>
+        <p>It'd be a shame if I forget this stuff.</p>
       </div>
     </div>
 
