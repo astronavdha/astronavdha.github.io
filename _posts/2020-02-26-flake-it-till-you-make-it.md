@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books]
 author: Navdha
 ---
-This is a collection of books and stories that I will probably remember for a long time, each with a short description on what stood out to me in particular. Some of these are truly dear to me, and have changed how I view the world and who I am as a person. 
+This is a compilation of books and stories that I will likely remember for a long time, each with a brief description of what stood out to me in particular. 
 
 
 <div id="bookCarousel" class="carousel slide" data-ride="carousel">
@@ -28,21 +28,21 @@ This is a collection of books and stories that I will probably remember for a lo
       <img src="https://m.media-amazon.com/images/I/81gepf1eMqL._UF1000,1000_QL80_.jpg" alt="...">
 
         <h3><strong>To Kill a Mockingbird</strong> by Harper Lee</h3>
-        <p>I'm guilty of having imagined that the book was about a bird for the longest time. It is a classic for a reason - a light-hearted, somewhat funny narration to a dark sequence of events. I didn't realize until much later that the entire story from the beginning to the end is Scout (the narrator, six yr. old) telling the reader about a time when she got a fracture. “When they finally saw him, why he hadn’t done any of those things . . . Atticus, he was real nice. . . .” His hands were under my chin, pulling up the cover, tucking it around me. “Most people are, Scout, when you finally see them.” : I do not care however much Atticus is criticized for being an outirght racist in the sequel, I hope to carry at least this philosophy of his with me to my grave. </p>
+        <p>I'm guilty of having imagined that the book was about a bird for the longest time. It is a classic for a reason - a light-hearted, somewhat funny narration to a dark sequence of events. I didn't realize until much later that the entire story from the beginning to the end is Scout (the narrator, six yr. old) telling the reader about a time when she got a fracture. “When they finally saw him, why he hadn’t done any of those things . . . Atticus, he was real nice. . . .” His hands were under my chin, pulling up the cover, tucking it around me. “Most people are, Scout, when you finally see them.” : I do not care however much Atticus is criticized for being an outright racist in the sequel, I hope to carry at least this philosophy of his with me to my grave. </p>
       </div>
     </div>
 
     <div class="carousel-item">
       <div class="text-center p-4">
         <h3><strong>The History Boys</strong> by Alan Bennett</h3>
-        <p>I read this around c</p>
+        <p>"History is a commentary on the various and continuing incapabilities of men. What is history? History is women following behind with the bucket." A bunch of charming British boys preparing for the Oxbridge entrance exam under the guidance of two mentors with very distinct approaches towards education. The plot is carried by their exam and their sexualities. A play with brilliant dialogue, the film is just as good.</p>
       </div>
     </div>
 
     <div class="carousel-item">
       <div class="text-center p-4">
         <h3><strong>Dear Fatty</strong> by Dawn French</h3>
-        <p>Not just dystopia, but a deep commentary on control and truth. I think about "doublethink" way too often.</p>
+        <p>I'm a little biased because I can read anything written in the form of a letter with deep interest, even the ingredients on the back of a shampoo bottle. If you've watched Harry Potter films, you might remember the portrait of the Fat Lady at the entrance of the Gryffindor common room. In the third movie, it's played by Dawn French, which has very little to do with the book, but I'm trying to build a connection with the audience here. Dear Fatty is an autobiography of the author, written in the form of letters to her friends, family, and acquaintances. She recollects major happenings in her life with a wit that I've always admired in people.</p>
       </div>
     </div>
 
@@ -56,7 +56,7 @@ This is a collection of books and stories that I will probably remember for a lo
     <div class="carousel-item">
       <div class="text-center p-4">
         <h3><strong>Satyadas</strong> by Bimal Kar</h3>
-        <p>... as a reminder to never pick a self-help book ever again. The first and the last book of its kind that I read.</p>
+        <p>In all honesty, I do not remember this book as well as the others - I read it in the eighth grade, which was over nine years ago. As much as I pretend to say this on rational grounds, the setting of this short book seems to bring back memories that do not exist. An old man with tousled hair shows up at the doorstep of a couple one rainy night. The road is deserted, the couple runs a failing grocery store, and the man, Satyadas, asks for food and shelter for one night. This is all I can recall from my memory.  </p>
       </div>
     </div>
   </div>
