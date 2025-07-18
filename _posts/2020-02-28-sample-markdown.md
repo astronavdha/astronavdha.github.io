@@ -5,7 +5,7 @@ thumbnail-img: https://static.toiimg.com/thumb/resizemode-4,width-1200,height-90
 share-img: https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-72094254/72094254.jpg
 ---
 
-In the memory of my dear Grandpa, *The Temple*.<br><br>
+In memory of my dear Grandpa. <br><br>
 
 “Will you come?”, he would ask me - my Grandpa,<br>
 every Tuesday, every Saturday,<br>
