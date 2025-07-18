@@ -9,4 +9,4 @@ The awkward name of this site originates from a time when I was a starry-eyed fr
 
 I update this when I'm overwhelmed by my many shortcomings as a researcher (I'm joking) and want to trick myself into feeling productive. <br>
 
-The views and opinions on this website (such as that of the most fascinating physical phenomenon being Bremsstrahlung) are entirely my own and, despite my (sporadic) efforts, may be erroneous. If you're a potential recruiter/supervisor and have landed on this page, I urge you to read the material in the (possibly sleep-deprived) spirit that it is intended.
+The views and opinions on this website (such as that of the most fascinating physical phenomenon being Bremsstrahlung) are entirely my own and, despite my (sporadic) efforts, may be erroneous. If you're a figure of authority and have landed on this page, I urge you to read the (sometimes slightly self-depreciating) material in the (possibly sleep-deprived) spirit in which it was intended.
