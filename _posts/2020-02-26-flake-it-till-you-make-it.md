@@ -20,7 +20,7 @@ This is a compilation of books and stories that I will likely remember for a lon
 
   <div class="book-item my-4">
     <h3><strong>The History Boys</strong> by Alan Bennett</h3>
-    <p>"History is a commentary on the various and continuing incapabilities of men. What is history? History is women following behind with the bucket."  
+    <p>"History is a commentary on the various and continuing incapabilities of men. What is history? History is women following behind with a bucket."  
     <br>A bunch of charming British boys preparing for the Oxbridge entrance exam under two mentors with distinct approaches to education. A play with brilliant dialogue.</p>
   </div>
 
